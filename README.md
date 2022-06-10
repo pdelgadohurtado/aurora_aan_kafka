@@ -1,4 +1,4 @@
-Para ejecutar utilizar: 
+Para desplegar utilizar: 
 
 docker-compose up
 
